@@ -53,7 +53,7 @@ class LoginFragment : Fragment() {
     }
     private fun displayUsersList() {
         Log.i("MYTAG","insidisplayUsersList")
-        val action =LoginFragment.action
+        val action = LoginFragmentDirections.action
         NavHostFragment.findNavController(this).navigate(action)
 
     }
