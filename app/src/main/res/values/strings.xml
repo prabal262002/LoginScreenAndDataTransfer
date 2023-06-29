@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Screen UI and Data Transfer</string>
+    <string name="Login_text">MiniDreams</string>
+    <string name="UserNameTextView">UserName</string>
+    <string name="PasswordText">Password</string>
+    <string name="UsernameTextField">username</string>
+    <string name="PasswordTextFiels">password</string>
+    <string name="Login_button">Submit</string>
+</resources>
